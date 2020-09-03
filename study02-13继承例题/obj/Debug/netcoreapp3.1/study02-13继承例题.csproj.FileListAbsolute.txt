@@ -1,0 +1,13 @@
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\obj\Debug\netcoreapp3.1\study02-13继承例题.csprojAssemblyReference.cache
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\obj\Debug\netcoreapp3.1\study02-13继承例题.csproj.CoreCompileInputs.cache
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\obj\Debug\netcoreapp3.1\study02-13继承例题.AssemblyInfoInputs.cache
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\obj\Debug\netcoreapp3.1\study02-13继承例题.AssemblyInfo.cs
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\bin\Debug\netcoreapp3.1\study02-13继承例题.exe
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\bin\Debug\netcoreapp3.1\study02-13继承例题.deps.json
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\bin\Debug\netcoreapp3.1\study02-13继承例题.runtimeconfig.json
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\bin\Debug\netcoreapp3.1\study02-13继承例题.runtimeconfig.dev.json
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\bin\Debug\netcoreapp3.1\study02-13继承例题.dll
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\bin\Debug\netcoreapp3.1\study02-13继承例题.pdb
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\obj\Debug\netcoreapp3.1\study02-13继承例题.dll
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\obj\Debug\netcoreapp3.1\study02-13继承例题.pdb
+C:\Users\spe\source\repos\study02-13继承例题\study02-13继承例题\obj\Debug\netcoreapp3.1\study02-13继承例题.genruntimeconfig.cache
